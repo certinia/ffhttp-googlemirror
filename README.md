@@ -13,6 +13,8 @@ An Apex framework has been created to provide functionality for Google Mirror AP
 
 This library extends the [Core](https://github.com/financialforcedev/ffhttp-core) library to provide access to Google Mirror API calls found at https://developers.google.com/glass/v1/reference/.
 
+Samples demonstrating the use of this library can be found [here](https://github.com/financialforcedev/ffhttp-googlemirror-samples).
+
 Key Features
 ------------
 
